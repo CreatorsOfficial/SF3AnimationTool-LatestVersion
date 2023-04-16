@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Muhammad Ramzan.HP.000\Desktop\test\Latest\Sf3 Animation Tool\main.h(131): warning C4715: 'getEnumValue': not all control paths return a value
+  test.vcxproj -> C:\Users\Muhammad Ramzan.HP.000\Desktop\test\Latest\x64\Debug\test.exe

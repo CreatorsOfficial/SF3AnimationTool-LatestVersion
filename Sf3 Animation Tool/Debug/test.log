@@ -1,0 +1,8 @@
+﻿  AnimatedTransform.cpp
+  CompressedQuaternion.cpp
+  main.cpp
+  Position.cpp
+  Quaternion.cpp
+  Generating Code...
+C:\Users\Muhammad Ramzan.HP.000\Desktop\test\Latest\Sf3 Animation Tool\main.h(131): warning C4715: 'getEnumValue': not all control paths return a value
+  test.vcxproj -> C:\Users\Muhammad Ramzan.HP.000\Desktop\test\Latest\Debug\test.exe
